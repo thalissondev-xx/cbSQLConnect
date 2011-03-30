@@ -22,7 +22,7 @@ Cyber's SQL Connect using PDO Version 0.9.1
 Changelog:
         Version 0.9.3
                 - Fixed some functions
-                - Added a Rows Affected Function ( RowsAffected()  return integer)
+                - Added a Rows Affected Function ( RowsAffected()  return number of rows affected of a query)
 	Version 0.9.1
 		- All entire class was wrote using PDO class
 		- CRUD 100%   can return as class or array assoc
